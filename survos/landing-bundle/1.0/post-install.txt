@@ -1,0 +1,3 @@
+<bg=blue;fg=white> Next for Survos LandingBundle </>
+    * <fg=blue>Customize</> Update base.html.twig to extends Survos Landing
+    * <fg=blue>Read</> documentation at <comment>https://github.com/survos/LandingBundle/blob/master/Resources/docs/index.md</>
