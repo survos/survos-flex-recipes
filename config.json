@@ -1,0 +1,6 @@
+{
+    "projects": {
+        "landing-bundle.survos.com": "LandingBundle",
+        "workflow-bundle.survos.com": "WorkflowExtensionBundle"
+    }
+}
